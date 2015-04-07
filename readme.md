@@ -1,5 +1,5 @@
 # UGCC CoP
-> [xAPI](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md) [Community of Practice](http://www.adlnet.gov/tla/experience-api/xapi-cop-directory/) for user generated course content (UGCC)
+> [xAPI](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md) [community of practice](http://www.adlnet.gov/tla/experience-api/xapi-cop-directory/) for user generated course content (UGCC)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://ht2.slack.com/messages/ll/)
 [![Join this Community](http://ht2dev.com/clients/ht2/cop_join_15_50.svg)](https://github.com/ht2/UGCC-CoP/subscription)
