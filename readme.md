@@ -9,4 +9,4 @@ This community of practice (CoP) will work towards standardising an approach to 
 If you have a problem, enhancement, or question for the community, please post it as an [issue in this repository](/contributing.md#issues) or a [message in the chat](https://gitter.im/ht2/BadgesCoP).
 
 ## Recipes
-1. [First Recipe](/first-recipe)
+1. [Sharing](/sharing)
