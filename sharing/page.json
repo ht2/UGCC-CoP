@@ -1,0 +1,26 @@
+{
+  "verb": {
+    "id": "http://activitystrea.ms/schema/1.0/share"
+  },
+  "object": {
+    "definition": {
+      "type": "http://activitystrea.ms/schema/1.0/page"
+    }
+  },
+  "context": {
+    "contextActivities": {
+      "grouping": [{
+        "definition": {
+          "type": "http://adlnet.gov/expapi/activities/course"
+        }
+      }],
+      "category": [{
+        "id": "https://github.com/ht2/UGCC/releases/tag/v0.0.1",
+        "definition": {
+          "type": "http://id.tincanapi.com/activitytype/recipe"
+        },
+        "objectType": "Activity"
+      }]
+    }
+  }
+}
